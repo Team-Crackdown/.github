@@ -1,5 +1,6 @@
+<div align="center">
+  
 ![cover](https://github.com/Team-Crackdown/.github-private/assets/74421057/f903ba3a-b1c3-423e-a196-2f3f293111d5)
-
 
 ### Team Members (구성원)
 <table>
@@ -77,3 +78,4 @@
     </td>
       </tbody>
   </table>
+</div>
